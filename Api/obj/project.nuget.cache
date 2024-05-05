@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Zwu1cS31CiBw+FjZ8xftdRDe/fsKq30+9AGLA/QYOzJODgPOHAW52wm+zFD6rB4+BGXeSB+XEAbuv98uzp/jw==",
+  "success": true,
+  "projectFilePath": "/Users/narminalieva/Desktop/Quartz-Scheduler/Api/Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/narminalieva/.nuget/packages/cronexpressiondescriptor/2.33.0/cronexpressiondescriptor.2.33.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/quartz/3.8.1/quartz.3.8.1.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/quartz.extensions.dependencyinjection/3.8.1/quartz.extensions.dependencyinjection.3.8.1.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/system.configuration.configurationmanager/6.0.1/system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/narminalieva/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
